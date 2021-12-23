@@ -1,0 +1,3 @@
+# Contract
+YokeFinance Contract Agreement
+ipfs://ffc44ae8232b5c1f4ae5fd595c1bb1a40a931c9058856340847391366999f263
