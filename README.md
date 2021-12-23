@@ -1,2 +1,0 @@
-# Contract
-YokeFinance Contract Agreement
